@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Abhay9935/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0231-power-of-two](https://github.com/Abhay9935/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/Abhay9935/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhay9935/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/Abhay9935/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
@@ -34,5 +35,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Abhay9935/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhay9935/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Abhay9935/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
