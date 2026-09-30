@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Abhay9935/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhay9935/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/Abhay9935/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -29,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Abhay9935/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhay9935/leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
