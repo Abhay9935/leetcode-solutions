@@ -19,9 +19,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/Abhay9935/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Abhay9935/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Abhay9935/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Abhay9935/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
